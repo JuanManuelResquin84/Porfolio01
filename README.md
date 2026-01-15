@@ -22,5 +22,5 @@ Pandas
 Numpy
 
 # Sobre mí
-Soy estudiante de Data Science, en proceso de formación, y este proyecto forma parte de mi portfolio inicial.
+Soy estudiante de Data Science, en proceso de formación, y este proyecto forma parte de mi portafolio inicial.
 Busco oportunidades donde pueda seguir desarrollándome en análisis de datos, Business Intelligence y ciencia de datos, aplicando buenas prácticas desde la etapa de preparación de datos.
