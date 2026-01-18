@@ -1,20 +1,26 @@
-# Portafolio01
-Limpieza y preparación de datos de ventas para análisis en Power BI. Proyecto inicial de Data Science enfocado en la transformación de datos crudos mediante Python, generando un dataset confiable para análisis de ventas mensuales, anuales y reportes en herramientas de Business Intelligence.
+# Proyecto de Data Science (Limpieza, Transformación y Análisis de Datos con Python)
 
-# Alcance del proyecto
-El script realiza las siguientes tareas:
-Carga de documentos desde archivos estructurados
-Limpieza de datos, eliminando columnas innecesarias
-Detección y control de datos duplicados y valores nulos
-Transformación de tipos de datos, convirtiendo columnas de tipo object a datetime
-Normalización y cambio de nombres de columnas para mejorar la legibilidad
-Imputación de datos faltantes en la columna fecha_venta, utilizando la fecha de la factura anterior como referencia, permitiendo un análisis temporal consistente
+# Descripción general
+Este proyecto presenta un flujo completo de trabajo en Python orientado al procesamiento, limpieza y análisis de datos estructurados, simulando un escenario real de negocio con múltiples tablas relacionadas (productos, categorías, ciudades, países y ventas).
+El objetivo principal es transformar datos crudos en información confiable, aplicando buenas prácticas de análisis de datos para preparar el dataset final para su posterior análisis exploratorio y visualización.
 
-# Objetivo
-Preparar un dataset limpio y estructurado que sirva como base para:
-Análisis de ventas mensuales y anuales
-Visualizaciones y reportes
-Futuros modelos analíticos
+# Procesos
+*Carga de múltiples datasets desde archivos CSV
+*Estandarización de columnas y normalización de nombres
+*Análisis estructural de los datos
+*Dimensiones de cada tabla
+*Tipos de datos
+*Identificación de valores nulos y duplicados
+*Limpieza de datos
+*Eliminación de columnas innecesarias
+*Control de calidad de datos
+*Verificación de integridad entre tablas
+*Transformación y enriquecimiento de datos
+*Uso de joins entre tablas para integrar información dispersa
+*Corrección de métricas clave como precio total por producto
+*Construcción de un dataset consolidado listo para análisis
+*Preparación para análisis y visualización
+*Dataset final optimizado para herramientas de BI (Power BI) o análisis exploratorio en Python
 
 # Librerias Utilizadas
 Python
